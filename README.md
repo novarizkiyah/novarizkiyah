@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nova</h1>
 <h3 align="center">A passionate backend developer and cloud engineer</h3>
 
-- 🔭 I’m currently working as a freelance instructure
+- 🔭 I’m currently working as AWS Developer (Part time and remote) in Tech Consultan Japan Company
 
 - 👨‍💻 All of my projects are available at [novarizkiyah.github.io](https://novarizkiyah.github.io/)
 
 - 📝 I regulary write articles on [medium.com/@studywithnova](https://medium.com/@studywithnova)
 
-- 💬 Ask me about **HTML, CSS, Javascript(NodeJS), SQL, AWS, GCP**
+- 💬 Ask me about **AWS, HTML, CSS, Javascript(NodeJS), SQL, AWS, GCP**
 
 - 📫 How to reach me **novalailatulrizkiyah@gmail.com**
 

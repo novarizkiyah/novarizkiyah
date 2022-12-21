@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 
+- Making documentation on Youtube (mostly AWS) [youtube.com/@studywithnova](https://www.youtube.com/@studywithnova)
+
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&theme=dark&hide_langs_below=1" />
 </a>

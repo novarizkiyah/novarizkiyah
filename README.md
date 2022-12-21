@@ -7,13 +7,11 @@
 
 - 📝 I regulary write articles on [medium.com/@studywithnova](https://medium.com/@studywithnova)
 
-- 💬 Ask me about **AWS, HTML, CSS, Javascript(NodeJS), SQL, AWS, GCP**
+- 💬 Ask me about **AWS, HTML, CSS, Python, Javascript(NodeJS), SQL, GCP**
 
 - 📫 How to reach me **novalailatulrizkiyah@gmail.com**
 
-- ⚡ Fun fact about me **AWS Community Builder**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img 
+- ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&theme=dark&hide_langs_below=1" />

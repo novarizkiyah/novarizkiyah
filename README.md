@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS, HTML, CSS, Python, Javascript(NodeJS), SQL, GCP**
 
-- 📫 How to reach me **novalailatulrizkiyah@gmail.com**
+- 📫 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nova-rizkiyah/)
 
 - ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 
@@ -20,6 +20,7 @@
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>
 </a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark)](https://github.com/novarizkiyah/github-readme-stats)
 

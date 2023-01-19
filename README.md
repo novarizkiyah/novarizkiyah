@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nova</h1>
 <h3 align="center">A passionate backend developer and cloud engineer</h3>
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2" width="100"/>
+  <img src="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2/giphy.gif" width="100"/>
 </div>
 - 🔭 I’m currently working as AWS Developer (Part time and remote) in Tech Consultan Japan Company
 

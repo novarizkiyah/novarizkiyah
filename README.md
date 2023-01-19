@@ -19,16 +19,14 @@
 - ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 
 - 🤵‍♀️ Making documentation on Youtube (mostly AWS) [![Youtube Badge](https://img.shields.io/badge/-studywithnova-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@studywithnova)
-
 ---
-
 ### :fire: My Stats :
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark)](https://github.com/novarizkiyah/github-readme-stats)
-
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

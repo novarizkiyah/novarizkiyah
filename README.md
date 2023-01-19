@@ -15,9 +15,7 @@
 
 - ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 
-- 🤵‍♀️ Making documentation on Youtube (mostly AWS) [![Youtube Badge](https://img.shields.io/badge/-novarizkiyah-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@studywithnova)
-
-https://img.shields.io/badge/-novarizkiyah-white?style=flat&logo=Youtube&logoColor=red
+- 🤵‍♀️ Making documentation on Youtube (mostly AWS) [![Youtube Badge](https://img.shields.io/badge/-studywithnova-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@studywithnova)
 
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>
@@ -26,7 +24,3 @@ https://img.shields.io/badge/-novarizkiyah-white?style=flat&logo=Youtube&logoCol
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark)](https://github.com/novarizkiyah/github-readme-stats)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nova-rizkiyah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shafinrahman" height="20" width="20" /></a>
-<a href="https://www.youtube.com/channel/UC7C9T9xXEJvdKufHTmfvSxg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shafinr98" height="20" width="20" /></a>
-</p>

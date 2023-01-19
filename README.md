@@ -22,5 +22,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark)](https://github.com/novarizkiyah/github-readme-stats"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark)](https://github.com/novarizkiyah/github-readme-stats)
-

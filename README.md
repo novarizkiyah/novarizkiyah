@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nova</h1>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=novarizkiyah&style=flat-square&color=blue" alt="/>
-</div>
 
 <h3 align="center">A passionate backend developer and cloud engineer</h3>
 

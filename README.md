@@ -20,9 +20,6 @@
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>
 </a>
-<a href="https://github.com/novarizkiyah">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical>
-</a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nova-rizkiyah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shafinrahman" height="20" width="20" /></a>

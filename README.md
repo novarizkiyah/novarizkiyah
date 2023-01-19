@@ -5,6 +5,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
+### :woman_technologist: About Me :
 - 🔭 I’m currently working as AWS Developer (Part time and remote) in Tech Consultan Japan Company
 
 - 👨‍💻 All of my projects are available at [novarizkiyah.github.io](https://novarizkiyah.github.io/)

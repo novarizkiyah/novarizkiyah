@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as AWS Developer (Part time and remote) in Tech Consultan Japan Company
 
-- 👨‍💻 All of my projects are available at [novarizkiyah.github.io](https://novarizkiyah.github.io/)
+- ✍️ All of my projects are available at [novarizkiyah.github.io](https://novarizkiyah.github.io/)
 
 - 📝 I regulary write articles on [![Medium Badge](https://img.shields.io/badge/-studywithnova-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@studywithnova)
 

@@ -20,7 +20,7 @@
 
 - 🤵‍♀️ Making documentation on Youtube (mostly AWS) [![Youtube Badge](https://img.shields.io/badge/-studywithnova-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@studywithnova)
 
-**---**
+---
 ### :fire: My Stats :
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>

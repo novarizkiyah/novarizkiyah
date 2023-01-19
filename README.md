@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nova</h1>
+<img src="https://komarev.com/ghpvc/?username=novarizkiyah&style=flat-square&color=blue" alt=""/>
 <h3 align="center">A passionate backend developer and cloud engineer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>

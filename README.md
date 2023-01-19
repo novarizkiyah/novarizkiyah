@@ -18,7 +18,7 @@
 - Making documentation on Youtube (mostly AWS) [youtube.com/@studywithnova](https://www.youtube.com/@studywithnova)
 
 <a href="https://github.com/novarizkiyah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical">
 </a>
 <a href="https://github.com/novarizkiyah">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical>

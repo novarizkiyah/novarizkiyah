@@ -11,11 +11,13 @@
 
 - 💬 Ask me about **AWS, HTML, CSS, Python, Javascript(NodeJS), SQL, GCP**
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novarizkiyah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 💮 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novarizkiyah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nova-rizkiyah/)
 
 - ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 
-- Making documentation on Youtube (mostly AWS) [youtube.com/@studywithnova](https://www.youtube.com/@studywithnova)
+- 🤵‍♀️ Making documentation on Youtube (mostly AWS) [![Youtube Badge](https://img.shields.io/badge/-novarizkiyah-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@studywithnova)
+
+https://img.shields.io/badge/-novarizkiyah-white?style=flat&logo=Youtube&logoColor=red
 
 <a href="https://github.com/novarizkiyah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>

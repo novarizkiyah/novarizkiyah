@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS, HTML, CSS, Python, Javascript(NodeJS), SQL, GCP**
 
-- 📫 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nova-rizkiyah/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novarizkiyah-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 - ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
 

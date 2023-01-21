@@ -22,10 +22,11 @@
 
 ### :fire: My Stats :
 <a href="https://github.com/novarizkiyah">
-  <img align="center" src="https://github-readme-stats-sigma-five-vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=novarizkiyah&show_icons=true&theme=radical"/>
 </a>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark)](https://github.com/novarizkiyah/github-readme-stats)
+
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -25,9 +25,6 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=novarizkiyah&show_icons=true&theme=vision-friendly-dark"/>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark"/>
 </a>
-<a href="https://github.com/novarizkiyah">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=novarizkiyah&layout=compact&theme=vision-friendly-dark"/>
-</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

@@ -16,7 +16,7 @@
 
 - 💮 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-novarizkiyah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nova-rizkiyah/)
 
-- ⚡ Fun fact about me **AWS Community Builder (Year Two!)**
+- ⚡ Fun fact about me **AWS Community Builder (Year Four!)**
 
 - 🤵‍♀️ Making documentation on Youtube (mostly AWS) [![Youtube Badge](https://img.shields.io/badge/-studywithnova-white?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/@studywithnova)
 

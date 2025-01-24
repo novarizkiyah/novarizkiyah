@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working as AWS Developer (Part time and remote) in Tech Consultan Japan Company
+- 🔭 I’m currently working as Cloud Engineer
 
 - ✍️ All of my projects are available at [novarizkiyah.github.io](https://novarizkiyah.github.io/)
 
